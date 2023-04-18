@@ -1,0 +1,14 @@
+#login-form {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+  padding: 20px;
+  width: 500px;
+  transition: all 0.5s ease;
+}
+
+#login-form label {
+  display: inline-block;
+  width: 100px;
+}
